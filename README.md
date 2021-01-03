@@ -33,6 +33,6 @@ I chose these because it is relatively easy to interpret and easily understandab
 # Model performance
 The KNN Neighbors model has below performace metrics.
 
-* Accuracy_Score : 
-* Precision : 
-* Recall : 
+* Accuracy_Score : 0.90
+* Precision : 0.92
+* Recall : 0.92
